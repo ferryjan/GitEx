@@ -11,7 +11,7 @@ namespace GitEx
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("This is a branch by: Robert D.");
+            Console.WriteLine("Hello again!");
         }
     }
 }
