@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitEx
 {
-    class Program
+    class RD
     {
-        static void Main(string[] args)
+        public RD()
         {
-            Console.WriteLine("Hello world!");
-            Console.WriteLine("This is a branch by: Robert D.");
+            Console.WriteLine("This is a class created by: Robert D.");
         }
     }
 }
