@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitEx
 {
-    class Program
+    class Hello
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
