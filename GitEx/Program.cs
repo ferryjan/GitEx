@@ -10,7 +10,7 @@ namespace GitEx
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("This is Robert H's personal branch");
         }
     }
 }
