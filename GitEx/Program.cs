@@ -10,6 +10,7 @@ namespace GitEx
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("A new change in the file. --Robert D");
         }
     }
 }
